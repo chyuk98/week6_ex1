@@ -6,3 +6,7 @@
 - 6. 메타데이타 변경 실습
 - 7. 원격 리부트
 - 8. 노드레드 dashboard로 표시
+https://user-images.githubusercontent.com/85184693/162382068-336cad5d-f7ad-4911-b96b-5b9522653d59.mp4
+
+https://user-images.githubusercontent.com/85184693/162382160-5fb479f7-070a-4a6f-b69c-7a8ff4416300.mp4
+
